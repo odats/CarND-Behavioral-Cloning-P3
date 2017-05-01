@@ -15,6 +15,7 @@ The goals / steps of this project are the following:
 [image3]: ./examples/rec1.jpg "Recovery Image"
 [image4]: ./examples/rec2.jpg "Recovery Image"
 [image5]: ./examples/rec3.jpg "Recovery Image"
+[image51]: ./examples/rec4.jpg "Recovery Image"
 [image6]: ./examples/normal.png "Normal Image"
 [image7]: ./examples/flipped.png "Flipped Image"
 [image8]: ./examples/progress.png "Progress Image"
@@ -134,6 +135,7 @@ I then recorded the vehicle recovering from the left side and right sides of the
 ![alt text][image3]
 ![alt text][image4]
 ![alt text][image5]
+![alt text][image51]
 
 Then I repeated this process on track two in order to get more data points.
 
